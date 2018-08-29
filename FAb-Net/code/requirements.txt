@@ -1,0 +1,9 @@
+Requirements are:
+
+PIL
+tensorboardX
+np=1.14.2
+matplotlib
+
+pytorch=0.4.0a0+2df578a # This was compiled from source. It should work with a general version *but* this has not been tested.
+torchvision=0.2.0
